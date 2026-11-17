@@ -1,0 +1,11 @@
+# Primary type labels and definitions, rendered into {label_block} in system_prompt.md.
+ASSAULT: Threatening or attempting harm that puts someone in reasonable fear of being hurt, with NO physical contact.
+BATTERY: Physical contact that causes harm or is insulting or provoking, including domestic incidents, attacks with weapons, and attacks on protected employees, seniors, or children by someone who is not their caregiver.
+BURGLARY: Entering a building, residence, business, or vehicle without authority to commit a theft or felony inside, typically shown by forced or unlawful entry.
+CRIMINAL DAMAGE: Damaging or defacing property (vehicles, buildings, city property) without taking anything.
+MOTOR VEHICLE THEFT: Taking a vehicle itself without permission, including attempts and recoveries of a vehicle taken earlier.
+NARCOTICS: Possessing, selling, or manufacturing controlled substances.
+OTHER OFFENSE: 'Offenses not covered elsewhere'
+ROBBERY: Taking property from a person by force or threat of force, with or without a weapon.
+THEFT: 'Taking property without force, threat, or unlawful entry: shoplifting, pickpocketing, items from an unlocked vehicle, porches, or open areas.'
+WEAPONS VIOLATION: Unlawfully possessing, carrying, or using a weapon (e.g. a handgun without a valid license), other than by a valid license holder.
